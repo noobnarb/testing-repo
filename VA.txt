@@ -1,0 +1,17 @@
+# Vote Anarchy Server
+
+## Overview
+
+**Vote Anarchy** is a unique Minecraft server hosted on the **23w13a_or_b** snapshot, a special April Fools snapshot provided by Minecraft. Established on **October 9, 2023**, this anarchic server offers players an unregulated and unpredictable gameplay experience.
+
+## Project No Chunk
+
+The first projects in the history of the Vote Anarchy server is **Project No Chunk**. This project was initiated by the server owner as a test to the server's hardware and did it in all survival mode.
+
+### Project Details
+
+- **Start Date:** The project began on the very first day of the server, immediately after its creation on **October 9, 2023**.
+
+- **Objective:** The main goal of Project No Chunk was to clear out an entire chunk, including the bedrock layers, in survival mode. This represented a challenge given the difficulty of removing bedrock but he just used one of the vote options "Flint and Steel can explode any block".
+
+- **Completion Date:** After a few hours of dedication, Project No Chunk achieved its extraordinary goal. On **October 10, 2023**, at **19:39:08** (as captured in the Minecraft screenshot "2023-10-10_19.39.08.png"), the project was successfully completed.
